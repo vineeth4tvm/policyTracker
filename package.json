@@ -1,0 +1,26 @@
+{
+  "name": "policytracker",
+  "version": "1.0.0",
+  "description": "Insurance Policy tracking made easy!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineeth4tvm/policyTracker.git"
+  },
+  "keywords": [
+    "insurance",
+    "policy",
+    "reminder",
+    "tracker",
+    "premium"
+  ],
+  "author": "Vineeth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vineeth4tvm/policyTracker/issues"
+  },
+  "homepage": "https://github.com/vineeth4tvm/policyTracker#readme"
+}
